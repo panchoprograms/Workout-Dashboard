@@ -1,5 +1,5 @@
 # Workout-Dashboard
-Pyhton exercise
+Python exercise
 
 This workout dashboard helps users track and progress through a 30-day bodyweight workout program, with features like generating daily workouts, tracking completion, and saving progress. It's built as a practical Python project to practice basic Python concepts such as functions, loops, conditionals, and file handling.
 
